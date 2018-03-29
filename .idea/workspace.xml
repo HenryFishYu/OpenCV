@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97d19668-46e0-4c6f-908e-a21e8e440c41" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/SpringCloud/target/" />
+    <ignored path="$PROJECT_DIR$/faceresize/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/java/com/cloud/demo/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FaceresizeApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceresizeApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1475#1476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FaceService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResponseMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/ResponseMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3663">
+              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+              <folding>
+                <marker date="1522154668198" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1522154668198" expanded="false" signature="162:753" ph="..." />
+                <marker date="1522154668198" expanded="false" signature="1161:1172" ph=" { " />
+                <marker date="1522154668198" expanded="false" signature="1193:1199" ph=" }" />
+                <marker date="1522154668198" expanded="false" signature="1262:1273" ph=" { " />
+                <marker date="1522154668198" expanded="false" signature="1293:1299" ph=" }" />
+                <marker date="1522154668198" expanded="true" signature="1421:1477" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="1556:1615" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="1725:1784" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="1878:1949" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="2113:2718" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="2878:4227" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="4306:4483" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="4603:5061" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="5126:6283" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="6368:6964" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="7047:7618" ph="{...}" />
+                <marker date="1522154668198" expanded="true" signature="7678:8011" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestMappingHandlerAdapter.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15444">
+              <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+              <folding>
+                <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1522154663888" expanded="false" signature="177:5071" ph="..." />
+                <marker date="1522154663888" expanded="true" signature="7493:7581" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="7658:7822" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="7867:8378" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="8488:8553" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="8644:8655" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="8691:8697" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="8801:9071" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="9157:9258" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="9372:9672" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="9768:9889" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10005:10074" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10170:10224" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10334:10615" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10705:10809" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10912:10979" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="11059:11070" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="11104:11110" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="11210:11285" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="11373:11432" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="11497:11508" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="11538:11544" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="11636:11765" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="11863:11994" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="12092:12159" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="12234:12245" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="12279:12285" ph=" }" />
+                <marker date="1522154663888" expanded="false" signature="12350:12361" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="12394:12400" ph=" }" />
+                <marker date="1522154663888" expanded="false" signature="12454:12465" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="12500:12506" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="12598:12845" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="12949:13220" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="13300:13438" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="13503:13514" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="13543:13549" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="13637:13718" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="13806:13873" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="13979:14082" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="14154:14219" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="14313:14384" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="14442:14591" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="14661:14672" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="14696:14702" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="14741:15522" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="15569:18168" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="18248:20494" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="20584:21708" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="21792:23465" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="23534:23545" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="23557:23563" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="23711:24705" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="24806:24817" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="24828:24834" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="24930:25743" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="25910:28643" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="25910:28661" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="28765:28837" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="28945:30300" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="29525:29932" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="30422:30808" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="30910:32109" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="31377:31771" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="32197:32662" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="32791:32898" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="33064:33981" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServlet.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14091">
+              <caret line="477" column="0" lean-forward="false" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+              <folding>
+                <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1522154663888" expanded="false" signature="155:2025" ph="..." />
+                <marker date="1522154663888" expanded="false" signature="5135:5146" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="5183:5189" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="5265:5356" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="5436:5509" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="5589:5662" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="5762:5855" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="5931:6000" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="6092:6177" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="6246:6257" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="6304:6310" ph=" }" />
+                <marker date="1522154663888" expanded="false" signature="6368:6379" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="6408:6414" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="6478:6891" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="6960:7571" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="7637:8292" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="8357:9000" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="9067:10162" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="10229:11324" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="11401:12648" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="12727:13484" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="13549:14614" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="14681:15348" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="15410:15542" ph="{...}" />
+                <marker date="1522154663888" expanded="false" signature="15615:15626" ph=" { " />
+                <marker date="1522154663888" expanded="false" signature="15656:15662" ph=" }" />
+                <marker date="1522154663888" expanded="true" signature="15737:15849" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="15946:16289" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="16394:17737" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="17826:17907" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="18013:20216" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="20323:23482" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="23594:23832" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="24053:25319" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="25396:25665" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="25566:25658" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="25769:26835" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="26907:27184" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="27250:27606" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="27714:28348" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="28459:28967" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="29056:29716" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="29898:31241" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="31361:32851" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="32952:33061" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="33226:33651" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="33829:33975" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="34082:35216" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="35286:35482" ph="{...}" />
+                <marker date="1522154663888" expanded="true" signature="35495:35880" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Imgcodecs.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/imgcodecs/Imgcodecs.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2871">
+              <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+              <folding>
+                <marker date="1519393262170" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1519393262170" expanded="false" signature="144:290" ph="..." />
+                <marker date="1519393262170" expanded="true" signature="4501:4508" ph="{}" />
+                <marker date="1519393262170" expanded="true" signature="4561:4655" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="4714:4801" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="4849:4929" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="5019:5139" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="5212:5314" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="5398:5621" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="5694:5910" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="5989:6098" ph="{...}" />
+                <marker date="1519393262170" expanded="true" signature="6160:6251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FaceController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CloudTest.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/faceresize/src/main/resources/CloudTest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#progress#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imgType</find>
+      <find>matType</find>
+      <find>itype</find>
+      <find>02</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloud/src/main/java/com/cloud/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/SpringCloud/appication.yml" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
+        <option value="$PROJECT_DIR$/faceresize/pom.xml" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/ResponseMessage.java" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceresizeApplication.java" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceService.java" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceController.java" />
+        <option value="$PROJECT_DIR$/faceresize/src/main/resources/CloudTest.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpenCV" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpenCV" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HenryYu\Documents\GitHub\OpenCV\SpringCloud\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FaceresizeApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OpenCV" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.demo.DemoApplication" />
+      <module name="SpringCloud" />
+      <envs />
+    </configuration>
+    <configuration name="FaceresizeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.faceidentify.faceresize.FaceresizeApplication" />
+      <module name="faceresize" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.FaceresizeApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97d19668-46e0-4c6f-908e-a21e8e440c41" name="Default" comment="" />
+      <created>1522062816175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522062816175</updated>
+      <workItem from="1522062820159" duration="114000" />
+      <workItem from="1522062957029" duration="4035000" />
+      <workItem from="1522067770925" duration="7153000" />
+      <workItem from="1522139822763" duration="11278000" />
+      <workItem from="1522237587239" duration="13706000" />
+      <workItem from="1522319221486" duration="27000" />
+      <workItem from="1522319360582" duration="13469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49782000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925683" sideWeight="0.11875" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925683" sideWeight="0.49375" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925683" sideWeight="0.88125" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925683" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/java/com/cloud/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceresizeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/ResponseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3663">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <marker date="1522154668198" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154668198" expanded="false" signature="162:753" ph="..." />
+            <marker date="1522154668198" expanded="false" signature="1161:1172" ph=" { " />
+            <marker date="1522154668198" expanded="false" signature="1193:1199" ph=" }" />
+            <marker date="1522154668198" expanded="false" signature="1262:1273" ph=" { " />
+            <marker date="1522154668198" expanded="false" signature="1293:1299" ph=" }" />
+            <marker date="1522154668198" expanded="true" signature="1421:1477" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1556:1615" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1725:1784" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1878:1949" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="2113:2718" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="2878:4227" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="4306:4483" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="4603:5061" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="5126:6283" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="6368:6964" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="7047:7618" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="7678:8011" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15444">
+          <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+          <folding>
+            <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154663888" expanded="false" signature="177:5071" ph="..." />
+            <marker date="1522154663888" expanded="true" signature="7493:7581" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7658:7822" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7867:8378" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="8488:8553" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="8644:8655" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="8691:8697" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="8801:9071" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9157:9258" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9372:9672" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9768:9889" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10005:10074" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10170:10224" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10334:10615" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10705:10809" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10912:10979" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="11059:11070" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="11104:11110" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="11210:11285" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11373:11432" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="11497:11508" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="11538:11544" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="11636:11765" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11863:11994" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12092:12159" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="12234:12245" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12279:12285" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="12350:12361" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12394:12400" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="12454:12465" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12500:12506" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="12598:12845" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12949:13220" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13300:13438" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="13503:13514" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="13543:13549" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="13637:13718" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13806:13873" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13979:14082" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14154:14219" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14313:14384" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14442:14591" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="14661:14672" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="14696:14702" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="14741:15522" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15569:18168" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="18248:20494" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="20584:21708" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="21792:23465" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="23534:23545" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="23557:23563" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="23711:24705" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="24806:24817" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="24828:24834" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="24930:25743" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25910:28643" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25910:28661" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28765:28837" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28945:30300" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29525:29932" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="30422:30808" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="30910:32109" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="31377:31771" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32197:32662" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32791:32898" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33064:33981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14091">
+          <caret line="477" column="0" lean-forward="false" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154663888" expanded="false" signature="155:2025" ph="..." />
+            <marker date="1522154663888" expanded="false" signature="5135:5146" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="5183:5189" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="5265:5356" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5436:5509" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5589:5662" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5762:5855" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5931:6000" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="6092:6177" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="6246:6257" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="6304:6310" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="6368:6379" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="6408:6414" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="6478:6891" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="6960:7571" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7637:8292" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="8357:9000" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9067:10162" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10229:11324" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11401:12648" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12727:13484" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13549:14614" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14681:15348" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15410:15542" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="15615:15626" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="15656:15662" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="15737:15849" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15946:16289" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="16394:17737" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="17826:17907" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="18013:20216" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="20323:23482" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="23594:23832" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="24053:25319" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25396:25665" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25566:25658" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25769:26835" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="26907:27184" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="27250:27606" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="27714:28348" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28459:28967" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29056:29716" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29898:31241" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="31361:32851" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32952:33061" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33226:33651" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33829:33975" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="34082:35216" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="35286:35482" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="35495:35880" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/imgcodecs/Imgcodecs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding>
+            <marker date="1519393262170" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1519393262170" expanded="false" signature="144:290" ph="..." />
+            <marker date="1519393262170" expanded="true" signature="4501:4508" ph="{}" />
+            <marker date="1519393262170" expanded="true" signature="4561:4655" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="4714:4801" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="4849:4929" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5019:5139" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5212:5314" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5398:5621" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5694:5910" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5989:6098" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="6160:6251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/resources/CloudTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#progress#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2343">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/java/com/cloud/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24651">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/SpringCloud.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceresizeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.4.0-1.4/opencv-3.4.0-1.4.jar!/org/bytedeco/javacpp/opencv_imgcodecs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/objdetect/CascadeClassifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/core/MatOfRect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/core/MatOfRect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/objdetect/CascadeClassifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="74" column="29" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.4.0-1.4/opencv-3.4.0-1.4.jar!/org/bytedeco/javacpp/opencv_imgcodecs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/SpringCloud.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/resources/application.properties" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22836">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/core/Mat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="441" column="0" lean-forward="false" selection-start-line="441" selection-start-column="0" selection-end-line="441" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/OpenCV/opencv/build/java/opencv-341.jar!/org/opencv/imgcodecs/Imgcodecs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2871">
+          <caret line="94" column="22" lean-forward="false" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding>
+            <marker date="1519393262170" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1519393262170" expanded="false" signature="144:290" ph="..." />
+            <marker date="1519393262170" expanded="true" signature="4501:4508" ph="{}" />
+            <marker date="1519393262170" expanded="true" signature="4561:4655" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="4714:4801" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="4849:4929" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5019:5139" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5212:5314" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5398:5621" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5694:5910" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="5989:6098" ph="{...}" />
+            <marker date="1519393262170" expanded="true" signature="6160:6251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3663">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding>
+            <marker date="1522154668198" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154668198" expanded="false" signature="162:753" ph="..." />
+            <marker date="1522154668198" expanded="false" signature="1161:1172" ph=" { " />
+            <marker date="1522154668198" expanded="false" signature="1193:1199" ph=" }" />
+            <marker date="1522154668198" expanded="false" signature="1262:1273" ph=" { " />
+            <marker date="1522154668198" expanded="false" signature="1293:1299" ph=" }" />
+            <marker date="1522154668198" expanded="true" signature="1421:1477" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1556:1615" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1725:1784" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="1878:1949" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="2113:2718" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="2878:4227" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="4306:4483" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="4603:5061" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="5126:6283" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="6368:6964" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="7047:7618" ph="{...}" />
+            <marker date="1522154668198" expanded="true" signature="7678:8011" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15444">
+          <caret line="568" column="0" lean-forward="false" selection-start-line="568" selection-start-column="0" selection-end-line="568" selection-end-column="0" />
+          <folding>
+            <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154663888" expanded="false" signature="177:5071" ph="..." />
+            <marker date="1522154663888" expanded="true" signature="7493:7581" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7658:7822" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7867:8378" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="8488:8553" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="8644:8655" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="8691:8697" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="8801:9071" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9157:9258" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9372:9672" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9768:9889" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10005:10074" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10170:10224" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10334:10615" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10705:10809" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10912:10979" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="11059:11070" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="11104:11110" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="11210:11285" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11373:11432" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="11497:11508" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="11538:11544" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="11636:11765" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11863:11994" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12092:12159" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="12234:12245" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12279:12285" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="12350:12361" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12394:12400" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="12454:12465" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="12500:12506" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="12598:12845" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12949:13220" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13300:13438" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="13503:13514" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="13543:13549" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="13637:13718" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13806:13873" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13979:14082" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14154:14219" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14313:14384" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14442:14591" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="14661:14672" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="14696:14702" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="14741:15522" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15569:18168" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="18248:20494" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="20584:21708" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="21792:23465" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="23534:23545" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="23557:23563" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="23711:24705" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="24806:24817" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="24828:24834" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="24930:25743" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25910:28643" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25910:28661" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28765:28837" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28945:30300" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29525:29932" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="30422:30808" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="30910:32109" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="31377:31771" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32197:32662" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32791:32898" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33064:33981" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14091">
+          <caret line="477" column="0" lean-forward="false" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <marker date="1522154663888" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522154663888" expanded="false" signature="155:2025" ph="..." />
+            <marker date="1522154663888" expanded="false" signature="5135:5146" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="5183:5189" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="5265:5356" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5436:5509" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5589:5662" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5762:5855" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="5931:6000" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="6092:6177" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="6246:6257" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="6304:6310" ph=" }" />
+            <marker date="1522154663888" expanded="false" signature="6368:6379" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="6408:6414" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="6478:6891" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="6960:7571" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="7637:8292" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="8357:9000" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="9067:10162" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="10229:11324" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="11401:12648" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="12727:13484" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="13549:14614" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="14681:15348" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15410:15542" ph="{...}" />
+            <marker date="1522154663888" expanded="false" signature="15615:15626" ph=" { " />
+            <marker date="1522154663888" expanded="false" signature="15656:15662" ph=" }" />
+            <marker date="1522154663888" expanded="true" signature="15737:15849" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="15946:16289" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="16394:17737" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="17826:17907" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="18013:20216" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="20323:23482" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="23594:23832" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="24053:25319" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25396:25665" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25566:25658" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="25769:26835" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="26907:27184" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="27250:27606" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="27714:28348" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="28459:28967" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29056:29716" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="29898:31241" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="31361:32851" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="32952:33061" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33226:33651" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="33829:33975" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="34082:35216" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="35286:35482" ph="{...}" />
+            <marker date="1522154663888" expanded="true" signature="35495:35880" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud/src/main/java/com/cloud/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/ResponseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/resources/CloudTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#progress#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceresizeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1475#1476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faceresize/src/main/java/com/faceidentify/faceresize/FaceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringCloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
