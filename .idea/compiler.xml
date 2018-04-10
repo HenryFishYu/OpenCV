@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="faceresize" />
+        <module name="HumanFaceComponent" />
         <module name="OpenCV" />
         <module name="SpringCloud" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="faceresize" target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="HumanFaceComponent" target="1.8" />
       <module name="OpenCV" target="1.5" />
-      <module name="SpringCloud" target="1.8" />
+      <module name="SpringCloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

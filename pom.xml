@@ -16,6 +16,13 @@
             <systemPath>D:/OpenCV/opencv/build/java/opencv-341.jar</systemPath>
             <scope>system</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.raistlic.lib/commons-core -->
+        <dependency>
+            <groupId>org.raistlic.lib</groupId>
+            <artifactId>commons-core</artifactId>
+            <version>1.4</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.bytedeco.javacpp-presets/opencv -->
         <!--<dependency>-->
             <!--<groupId>org.bytedeco.javacpp-presets</groupId>-->

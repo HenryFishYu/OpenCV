@@ -1,0 +1,7 @@
+<dependency>
+			<groupId>org.opencv</groupId>
+			<artifactId>opencv</artifactId>
+			<version>3.4.1</version>
+			<systemPath>D:/OpenCV/opencv/build/java/opencv-341.jar</systemPath>
+			<scope>system</scope>
+		</dependency>

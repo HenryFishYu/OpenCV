@@ -1,0 +1,20 @@
+可以识别:林俊杰,周杰伦，余昊伦的照片，识别率70%左右
+responseCode:
+00 成功
+01 Exception
+02 上传文件非图片
+03 未识别到人脸
+
+identifyFace 异步方法 根据图片检测人脸
+入参 File
+出参 ResponseMessage 属性:responseCode,data
+data:UUID
+
+getResizedFace 异步方法 获得100px * 100px 的灰度人脸图
+入参 UUID
+出参 byte[] (前端以Blob接收)
+
+getHumanResult 异步方法
+入参 UUID
+出参 ResponseMessage 属性:responseCode,data
+data:人名

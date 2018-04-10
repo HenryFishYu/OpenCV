@@ -15,17 +15,17 @@ public class Demo {
     }
     public static void main(String[] args)
     {
-
+        String name="6.jpg";
         // TODO Auto-generated method stub
         System.load("D:\\OpenCV\\opencv\\build\\java\\x64\\opencv_java341.dll");
         System.out.println("\nRunning FaceDetector");
         CascadeClassifier faceDetector = new CascadeClassifier();
         faceDetector.load(
                 "D:\\OpenCV\\opencv\\sources\\data\\haarcascades\\haarcascade_frontalface_alt2.xml");
-        Mat image = Imgcodecs.imread("C:\\Users\\HenryYu\\Desktop\\1.jpg",CV_LOAD_IMAGE_GRAYSCALE);
+        Mat image = Imgcodecs.imread("C:\\Users\\HenryYu\\Desktop\\zjl\\"+name,CV_LOAD_IMAGE_GRAYSCALE);
         Mat image1=new Mat();
         MatOfRect faceDetections = new MatOfRect();
-        faceDetector.detectMultiScale(image,faceDetections,(double)(2),5,0,new Size(0,0),new Size(1000,1000));
+        faceDetector.detectMultiScale(image,faceDetections);
         System.out.println(String.format("Detected %s faces", faceDetections.toArray().length));
         Rect maxRect=new Rect(0,0,0,0);
         for (Rect rect : faceDetections.toArray())
@@ -45,8 +45,8 @@ public class Demo {
             Mat tmp_img = new Mat();
             //人脸拷贝
             roi_img.copyTo(tmp_img);
-            Imgproc.resize(tmp_img,tmp_img,new Size(50,50));
-            String filename = "D:\\ouput.jpg";
+            Imgproc.resize(tmp_img,tmp_img,new Size(100,100));
+            String filename = "D:\\faces\\zjl\\"+name;
             Imgcodecs.imwrite(filename, tmp_img);
         }
 

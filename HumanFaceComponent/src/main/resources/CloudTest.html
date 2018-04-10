@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <meta charset="UTF-8">
+    <title>XMLHttpRequest上传文件进度实现</title>
+    <script type="text/javascript">
+        var xhr;
+        var ot;//
+        var oloaded;
+        function getHumanResult() {
+            var url = "http://125.120.157.195:8762/getHumanResult";
+            $.ajax({
+                url: url,
+                type: "post",
+                data: {
+                    uuid:$("#identifyFaceResult").val()
+                },
+                dataType:"json",
+                success: function(data) {
+                    if(data.responseCode=="00"){
+                        alert(data.data);
+                    }else{
+                        alert("Error Code:"+data.responseCode);
+                    }
+                    console.log(data);
+                },
+                error:function(){
+                    alert("Error");
+                }
+            });
+        }
+        function identifyFace(){
+            var fileObj = document.getElementById("file").files[0]; // js 获取文件对象
+            var url = "http://125.120.157.195:8762/identifyFace"; // 接收上传文件的后台地址
+            var form = new FormData(); // FormData 对象
+            form.append("photo", fileObj); // 文件对象
+            $.ajax({
+                url: url,
+                type: "post",
+                data: form,
+                cache: false,
+                processData: false,
+                contentType: false,
+                dataType:"json",
+                success: function(data) {
+                    if(data.responseCode=="00"){
+                        $("#identifyFaceResult").val(data.data);
+                        $('.afterButton').attr("disabled",false);
+                    }else{
+                        $("#identifyFaceResult").val("Error Code:"+data.responseCode);
+                        $('.afterButton').attr("disabled",true);
+                    }
+                    console.log(data.responseCode);
+                },
+                error:function(){
+                    $("#identifyFaceResult").val("Service Error");
+                    $('.afterButton').attr("disabled",true);
+                }
+            });
+
+        }
+        //上传文件方法
+            function getResizedPhoto() {
+                var uuid = $("#identifyFaceResult").val(); // js 获取文件对象
+                var url = "http://125.120.157.195:8762/getResizedFace"; // 接收上传文件的后台地址
+
+                var form = new FormData(); // FormData 对象
+                form.append("uuid", uuid); // 文件对象
+
+                xhr = new XMLHttpRequest();  // XMLHttpRequest 对象
+                xhr.responseType = "blob";
+                xhr.open("post", url, true); //post方式，url为服务器请求地址，true 该参数规定请求是否异步处理。
+                xhr.onload =   function(){
+                    if (this.status == 200) {
+                        var blob = this.response;
+                        var img = document.getElementById("resizedPhotoImg");
+                        img.onload = function() {
+                            window.URL.revokeObjectURL(img.src); // 清除释放
+                        };
+                        img.src = window.URL.createObjectURL(blob);
+                        //document.body.appendChild(img);
+                    }
+                }
+                xhr.send(form); //开始上传，发送form数据
+            }
+    </script>
+</head>
+<body>
+<input type="file" id="file" name="photo" />
+<input type="button" onclick="identifyFace()" value="检测人脸" />
+<input type="text" id="identifyFaceResult" disabled="true"/>
+<input type="button" class="afterButton" onclick="getResizedPhoto()" value="获得灰度图" disabled="true"/>
+<input type="button" class="afterButton" onclick="getHumanResult()" value="获得识别结果" disabled="true"/>
+<br />
+<img id="resizedPhotoImg"/>
+</body>
+</html>

@@ -6,7 +6,17 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCloud/pom.xml" />
         <option value="$PROJECT_DIR$/faceresize/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceResize/pom.xml" />
+        <option value="$PROJECT_DIR$/HumanFaceComponent/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceComponent/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/FaceComponent/pom.xml" />
+        <option value="$PROJECT_DIR$/FaceComponet/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
